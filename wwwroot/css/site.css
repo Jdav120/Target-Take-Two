@@ -109,7 +109,7 @@ body {
 /* Hero Section - UPDATED TO PNG */
 .hero-section {
     height: 80vh;
-    background: url('images/target-stillwater-sunset.png') no-repeat center center/cover;
+    background: url('../images/target-stillwater-sunset.png') no-repeat center center/cover;
     background-color: #333;
     position: relative;
 }
